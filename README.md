@@ -19,6 +19,14 @@ Social media links to get information on the store
 
 Responsiveness
 -------------
+Computer
+![ComputerSS](https://user-images.githubusercontent.com/69827955/213883096-62e97250-83a1-41fd-aba1-cab6b6e839ab.png)
+
+Tablet
+![TabletSS](https://user-images.githubusercontent.com/69827955/213883104-80e789dc-90fb-4a52-859a-626cf250a561.png)
+
+Phone
+<imghttps://user-images.githubusercontent.com/69827955/213883112-274b8d6c-294c-48cb-a186-880098fb5ad7.png)
 
 
 Languages Used
