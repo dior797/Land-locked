@@ -1,11 +1,15 @@
 # Land-locked
-Read Me
-Welcome to Land-Locked Thrift Shop Project
+https://land-locked.netlify.app/
+
+
+Land-Locked Thrift Shop
+=======================
 
 This project aims to create an online platform for a thrift store where customers can browse our inventory, find out how to donate, and learn more about Land-Locked Thrift Shop.
 
 
 Features
+-------
 
 User-friendly interface for browsing and categorizing items
 Compatible with all devices
@@ -14,9 +18,11 @@ Social media links to get information on the store
 
 
 Responsiveness
+-------------
 
 
 Languages Used
+--------------
 
 JavaScript
 CSS
@@ -25,10 +31,12 @@ React
 
 
 Support
+---------
 
 If any issues occur please contact us at gabrielrabago3@gmail.com or nelsonv23453@gmail.com
 
 Credits
+--------
 
 Home Background: https://www.pexels.com/@cottonbro/
 Donate Background: https://unsplash.com/@salimtetbirt
