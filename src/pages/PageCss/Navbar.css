@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&display=swap');
+
+.Subscribe{
+    text-align: center;
+    background-color: rgb(99, 99, 99);
+    color: rgba(255, 255, 255, 0.918);
+}
+
+#color-Nav:hover{
+    color: rgb(161, 161, 163);
+}
+.all {
+    display: flex;
+    justify-content: left;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 1.2vw;
+    align-items: center;
+    gap: 1.5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 5%;
+    border-bottom: .2px solid #BBBBBB;
+
+}
+.nav{
+    text-decoration: none;
+    color:rgb(99, 99, 99);
+    padding: .9vw 0px;
+    display: inline-block;
+    position: relative;
+    opacity: 0.75;
+}
+
+.nav:hover{
+    opacity: 1;
+    color: rgb(98, 96, 96);
+}
+
+.nav:before {
+    transition: 300ms;
+    height: 2px;
+    content: "";
+    position: absolute;
+    background-color: rgb(98, 96, 96);
+  }
+  .nav::before {
+    width: 0%;
+    bottom: 10px;
+  }
+  .nav:hover::before {
+    width: 100%;
+  }
+#Image {
+    width: 9vw;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .all {
+        gap: 3vw;
+        font-size: 3vw;
+
+    }
+
+    #Image {
+        width: 25vw;
+    }
+
+    .nav:hover{
+        opacity: 1;
+        color: rgb(98, 96, 96);
+    }
+    
+    .nav:before {
+        transition: 300ms;
+        height: 2px;
+        content: "";
+        position: absolute;
+        background-color: rgb(98, 96, 96);
+      }
+      .nav::before {
+        width: 0%;
+        bottom:7%;
+      }
+      .nav:after{
+        width: 100%;
+      }
+      .nav:hover::before {
+        width: 100%;
+      }
+
+}

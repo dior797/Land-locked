@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.Home-all {
+    position: relative;
+}
+
+.titlediv {
+    position: absolute;
+    font-size: .7vw;
+    font-family: 'Nanum Myeongjo', serif;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    color: whitesmoke;
+    text-align: center;
+    border: solid 5vw rgba(0, 0, 0, .001);
+    background: rgb(0, 0, 0, 0.44);
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.5);
+    margin: 0 auto;
+    border-radius: 3vw;
+}
+
+
+.title {
+    font-size: 400%;
+    font-family: 'Playfair Display', serif;
+}
+
+.desc {
+    font-size: 200%;
+}
+
+#log {
+    margin-top: -5%;
+}
+
+.titlebut {
+    border-radius: 1.302vw;
+    background-color: #4CAF50;
+    border: none;
+    padding: .97vw 2.08vw;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.25vw;
+    color: white;
+
+}
+
+.All-Forms {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    background-color: lightgray;
+    margin-top: 5%;
+    border-radius: 25px;
+    padding: 3%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Home-Title {
+    background-color: white;
+    font-size: 3vw;
+    margin-bottom: 2%;
+    background-color: lightgray;
+    border-radius: 25px;
+    font-family: 'Playfair Display', serif;
+    padding-top: 1%;
+
+}
+
+#Paragraph {
+    width: 80%;
+    margin: auto;
+}
+
+.Home-Button {
+    margin: .78vw 0 .78vw 0;
+    border: 0;
+    width: 35%;
+    margin-right: 2%;
+    padding: 1.5%;
+}
+
+.Home-Button-Submit {
+    margin: .78vw 0 .78vw 0;
+    border: 0;
+    padding: 1.5%;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .title {
+        font-size: 700%;
+    }
+
+    .desc {
+        font-size: 300%;
+    }
+
+    .titlebut {
+        font-size: 3vw;
+    }
+
+    .All-Forms {
+        width: 90%;
+        margin: auto;
+        text-align: center;
+        background-color: lightgray;
+        margin-top: 5%;
+        border-radius: 25px;
+        font-size:1.9vw;
+        padding: 3%;
+    }
+
+    .Home-Title {
+        background-color: white;
+        font-size: 5vw;
+        margin-bottom: 2%;
+        background-color: lightgray;
+        border-radius: 25px;
+        font-family: 'Playfair Display', serif;
+        padding-top: 3%;
+    }
+}

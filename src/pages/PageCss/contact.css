@@ -1,0 +1,105 @@
+.contact-all {
+    display: grid;
+    width: 87%;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+    gap: 5vw 1%;
+    font-family: 'Nanum Myeongjo', serif;
+    margin: auto;
+}
+
+.Info-Title {
+    font-size: 3vw;
+}
+
+.Info-Summary {
+    font-size: 1.3vw;
+}
+
+.Info-Contact {}
+
+.Icons {
+    list-style-type: none;
+
+}
+
+.Icon-Item {
+    margin: 1.6%;
+    width: 4%;
+    height: auto;
+    position: relative;
+}
+
+.What {}
+
+.Con-Title {
+    font-size: 3vw;
+}
+
+.Con-Forms {
+    width:  29.53vw;
+    background-color: white;
+    margin: auto;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    padding: 10px;
+}
+
+.register-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.form-Button {
+    margin: .78vw 0 .78vw 0;
+    padding: 5%;
+    font-size: 100%;
+    border: 0;
+}
+input {
+    background: rgb(230, 230, 230);
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    cursor: default;
+    background-color:#377d3a ;
+    color: white;
+}
+
+#txt-box {
+    padding-bottom: 30%;
+}
+
+@media only screen and (max-width: 600px) {
+    .contact-all{
+      grid-template-columns: auto;
+    }
+    .Info-Summary {
+        font-size: 3.5vw;
+    }
+    .Info-Contact {
+        margin-left: -10%;
+    }
+   
+    .Info-Title {
+        font-size: 7vw;
+    }
+   
+    .Con-Title {
+        font-size: 7vw;
+    }
+    .Con-Forms {
+        width:  100%;
+        background-color: white;
+        margin: auto;
+        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+        padding: 10px;
+    }
+}

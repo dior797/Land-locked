@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;800&display=swap');
+
+.line {
+    width: 95%;
+    height: 2px;
+    margin: 1% auto;
+    background-color: black;
+}
+
+.footer-title {
+    display: flex;
+    font-size: 2.5vw;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+
+.footer-title div {
+    width: 19%;
+}
+
+.foot-name h1 {
+    font-size: 2.5vw;
+}
+
+.nav-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 1.7vw;
+    margin-left: -1%;
+    font-size: 1.3vw;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 550;
+    opacity: .75;
+}
+
+.allTogether {
+    margin-top: 2.5%;
+    margin-bottom: 1%;
+}
+
+.item1 {
+    text-decoration: none;
+    color: rgb(99, 99, 99);
+}
+.item1:hover{
+    color: rgb(22, 22, 22)
+}
+
+.alink {
+    width: 100%;
+}
+
+.Images {
+    gap: 0%;
+    width: 60%;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .footer-title {
+        flex-direction: column;
+        gap: 3vw;
+        margin-top: 3vw;
+    }
+
+    .footer-title div {
+        width: 80%;
+    }
+
+    .foot-name h1 {
+        font-size: 5vw;
+        text-align: center;
+        margin: 0px;
+    }
+
+    .nav-footer {
+        font-size: 4vw;
+        justify-content: space-around;
+        gap: 6%;
+    }
+
+    .Images {
+        width: 50%;
+        display: block;
+        margin: auto;
+    }
+
+    .social {
+        justify-content: space-around;
+    }
+}
