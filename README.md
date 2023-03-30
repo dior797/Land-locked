@@ -32,10 +32,10 @@ Phone <br>
 Languages Used
 --------------
 
-JavaScript
-CSS
-JSX
-React
+JavaScript<br>
+CSS<br>
+JSX<br>
+React<br>
 
 Libraries Used
 --------------
