@@ -37,6 +37,10 @@ CSS
 JSX
 React
 
+Libraries Used
+--------------
+BootStrap
+
 
 Support
 ---------
