@@ -50,17 +50,17 @@ If any issues occur please contact us at gabrielrabago3@gmail.com or nelsonv2345
 Credits
 --------
 
-Home Background: https://www.pexels.com/@cottonbro/
-Donate Background: https://unsplash.com/@salimtetbirt
-About Us Photo 1: https://unsplash.com/@halfbakedphotos
-About Us Photo 2: https://unsplash.com/es/@hannahbusing
-Twitter Icon: https://www.iconfinder.com/justui
-Youtube Icon: https://www.iconfinder.com/pocike
-Store API: https://fakestoreapi.com/
-Location Icon:https://www.iconfinder.com/search?q=location
-Phone Icon:https://www.iconfinder.com/search?q=phone
-Time Icon:https://www.iconfinder.com/search?q=time
-Email Icon:https://www.iconfinder.com/search?q=email
+Home Background: https://www.pexels.com/@cottonbro/<br>
+Donate Background: https://unsplash.com/@salimtetbirt<br>
+About Us Photo 1: https://unsplash.com/@halfbakedphotos<br>
+About Us Photo 2: https://unsplash.com/es/@hannahbusing<br>
+Twitter Icon: https://www.iconfinder.com/justui<br>
+Youtube Icon: https://www.iconfinder.com/pocike<br>
+Store API: https://fakestoreapi.com/<br>
+Location Icon:https://www.iconfinder.com/search?q=location<br>
+Phone Icon:https://www.iconfinder.com/search?q=phone<br>
+Time Icon:https://www.iconfinder.com/search?q=time<br>
+Email Icon:https://www.iconfinder.com/search?q=email<br>
 
 
 
