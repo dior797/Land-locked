@@ -11,12 +11,12 @@ This project aims to create an online platform for a thrift store where customer
 Features
 -------
 
--User-friendly interface for browsing and categorizing items<br>
--Compatible with all devices<br>
--Header and Footer that leads to all the pages<br>
--Social media links to get information on the store<br>
--Light and Dark Mode<br> 
--Database for the Products<br>
+- User-friendly interface for browsing and categorizing items<br>
+- Compatible with all devices<br>
+- Header and Footer that leads to all the pages<br>
+- Social media links to get information on the store<br>
+- Light and Dark Mode<br> 
+- Database for the Products<br>
 
 
 Responsiveness
