@@ -23,7 +23,11 @@ Design Choices<br>
 ===============
 Branding <br>
 ----------------
-The website's branding is centered around a local thrift store with lots of vintage items. The brand identity includes a modern, simplistic, and straighfoward look while in the night it is more of a retro themed hangout spot.
+The website's branding is centered around a local thrift store with lots of vintage items. The brand identity includes a modern, simplistic, and straighfoward look while in the night it is more of a retro themed hangout spot. <br>
+
+User Interface <br>
+---------------
+The website features a clean and modern user interface design. The layout is structured to be easy to navigate and to draw attention to important information. The color scheme is Dark Gray, Black, Light Gray, Light Green, and Orange-Red gradient, which was chosen to give of the modern and retro look. 
 
 <img src="https://user-images.githubusercontent.com/69827955/213883096-62e97250-83a1-41fd-aba1-cab6b6e839ab.png" height="300px">
 
