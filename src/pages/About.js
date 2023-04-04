@@ -1,16 +1,19 @@
 import '../pages/PageCss/About.css'
-import AboutImg from '../homeless.avif'
-import AboutImg2 from '../about2.avif'
+import AboutImg from '../pages/Images/homeless.avif'
+import AboutImg2 from '../pages/Images/about2.avif'
+import DarkMode from '../components/DarkMode';
 
 
-const About = () => {
+
+const About = () => { 
   return (
     <>
       <div className='titleAbt'>About Land-Locked</div>
       <div className='Welcome'>Welcome to Land-Locked! We are dedicated to providing affordable and stylish clothing, accessories, and home goods to our community. We aim to promote sustainability by giving new life to gently used items and reducing the amount of waste in landfills.</div>
       <div className='All'>
-        <img src={AboutImg} className="Image1" alt="Image1"
-          width="100%" height="auto"></img>
+        <div className='meowww'>
+        <img src={AboutImg} className="Image1" alt="Image1" width="100%" height="auto"></img>
+          </div>
         <p className='text1'><b>Our mission</b> at Land-Locked Thrift Store is to provide high-quality, gently used clothing, household items, and furniture at affordable prices to our community. By doing so,<b> we strive to be a resource for those in need</b>, help reduce waste and promote sustainable living, and support local charities and non-profit organizations through donations and partnerships. We are committed to providing a welcoming and inclusive shopping experience for all, and fostering a culture of kindness and generosity in everything we do.
         </p>
 
@@ -21,13 +24,13 @@ const About = () => {
       </div>
       </div>
       <div className='part2'>
-        <div className='Our'>How are we diffrent?</div>
+        <div className='Our'>How are we different?</div>
         <div className='OurSum'><b>We have a wide variety of items</b>, including vintage, and designer finds, as well as everyday essentials. Our selection is constantly changing, so there's always something new to discover. We carefully inspect each item before putting it out for sale, so you can shop with confidence.
           <br />
           
           In addition to our commitment to sustainability, we also <b>Strive to give back to our community</b>. A portion of our profits goes towards supporting local charities and non-profit organizations.</div>
       </div>
-
+   
     </>
 
   )

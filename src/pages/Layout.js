@@ -1,16 +1,16 @@
 import { Outlet } from "react-router-dom";
-import '../Navbar.css'
-import Top from '../pages/Navbar'
+import Top from '../pages/Navbar.js'
 import Footer from "../pages/Footer";
+
+
 
 const Layout = () => {
   return (
     <>
-    <Top />
+      <Top />
       <Outlet />
-      <Footer/>
-       </>
+      <Footer />
+    </>
   )
-};
-
+}
 export default Layout;

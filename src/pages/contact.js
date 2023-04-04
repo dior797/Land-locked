@@ -1,18 +1,18 @@
 import '../pages/PageCss/contact.css'
-import Clock from '../Clock.png'
-import Phone from '../Phone.png'
-import Email from '../Email.png'
-import Location from '../location.png'
-
+import Clock from '../pages/Icons/Clock.png'
+import Phone from '../pages/Icons/Phone.png'
+import Email from '../pages/Icons/Email.png'
+import Location from '../pages/Icons/location.png'
+import ReCAPTCHA from "react-google-recaptcha"
+import React, { useRef } from 'react';
+import DarkMode from '../components/DarkMode';
 
 
 const Contact = () => {
-    function grabButton() {
-        alert("hello")
-    }
+    const captchaRef = useRef(null)
+
     return (
         <>
-
             <div className='contact-all'>
                 <div className='Information-All'>
                     <div className='Info-Title'>Information</div>
@@ -30,35 +30,43 @@ const Contact = () => {
                 <div className='Contact-All'>
                     <div className='Con-Title'>Contact Us</div>
                     <div className='Con-Forms'>
-                        <form class="register-form">
+                        <form className="register-form">
                             <input
                                 id="Your-Name"
-                                class="form-Button"
+                                className="form-Button"
                                 type="text"
                                 placeholder="Your name"
                                 name="YourName" required />
                             <input
                                 id="Phone-Number"
-                                class="form-Button"
+                                className="form-Button"
                                 type="tel"
                                 placeholder="(000)-000-000"
                                 name="PhoneNumber"
                                 pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required />
                             <input
                                 id="email"
-                                class="form-Button"
+                                className="form-Button"
                                 type="email"
                                 placeholder="Email"
-                                name="email" required />
+                                name="Mail" required />
                             <input
                                 id="txt-box"
-                                class="form-Button"
+                                className="form-Button"
                                 type="text"
                                 placeholder="Message"
-                                name="email" required />
-                            <button class="form-Button" type="submit" onSubmit={() => grabButton()}>
-                                Register
+                                name="txt-box" required />
+
+
+                            <div className="captcha">
+                                <ReCAPTCHA
+                                    sitekey="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"
+                                    ref={captchaRef} />
+                            </div>
+                            <button className="form-Button formb" type="submit">
+                                Send
                             </button>
+
                         </form>
                     </div>
                 </div>

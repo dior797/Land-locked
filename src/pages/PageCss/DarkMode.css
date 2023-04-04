@@ -1,0 +1,215 @@
+.switch {
+    display: inline-block;
+    position: relative;
+    width: 3.9vw;
+    height: 4.28vh;
+}
+
+.switch input {
+    height: 0;
+    opacity: 0;
+    width: 0;
+}
+
+.slider {
+    background: lightgray;
+    border-radius: 200%;
+    bottom: 0;
+    cursor: pointer;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: 0.4s;
+}
+
+.slider:before {
+    border-radius: 50%;
+    bottom: 4px;
+    content: "";
+    height: 26px;
+    left: 4px;
+    position: absolute;
+    transition: 0.4s;
+    width: 26px;
+    background: linear-gradient(180deg,#ffcc89,#d8860b);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+input:checked + .slider:before {
+    background-image: var(--DarkmodeImg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transform: translateX(105.5%);
+    z-index: 2;
+}
+
+input:checked + .slider {
+    background-color: rgb(72, 71, 71);
+}
+
+input:focus + .slider {
+    box-shadow: white 1px;
+}
+
+@media only screen and (max-width: 767px) {
+    .switch {
+        width: 40px;
+        height: 24px;
+    }
+    .switch input {
+        height: 0;
+        opacity: 0;
+        width: 0;
+    }
+    .slider {
+        width: 100%;
+        height: 100%;
+        border-radius: 12px;
+    }
+    .slider:before {
+        height: 16px;
+        width: 16px;
+        left: 4px;
+        bottom: 4px;
+    }
+
+    input:checked + .slider:before {
+        background-image: var(--DarkmodeImg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        transform: translateX(45%);
+        z-index: 2;
+    }
+}
+
+@media only screen and (max-width: 280px) {
+    .switch {
+        width: 30px;
+        height: 18px;
+    }
+    .slider {
+        width: 70px;
+        height: 42px;
+        border-radius: 21px;
+    }
+    .slider:before {
+        height: 14px;
+        width: 14px;
+        left: 4px;
+        bottom: 4px;
+    }
+}
+
+:root {
+    --white: white;
+    --black: black;
+    --textColorL: black;
+    --textColorD: white;
+    --NotChange: white;
+    --HomeBut: rgb(99, 99, 99);
+    --DarkmodeImg: url("../Icons/moon.png");
+    --ItemShopL:rgb(242, 238, 238);
+    --ItemShopD:rgb(91, 89, 89);
+
+}
+
+body {
+    font-family: "Ubuntu", sans-serif;
+    background: var(--background-color);
+    color: var(--text-color);
+    font-weight: var(--font-weight);
+    transition: background 0.3s ease-in-out, color 0.6s ease-in-out;
+}
+
+body.light {
+    --background-color: var(--white);
+    --text-color: var(--textColorL);
+    --font-weight: 400;
+    --image: url("../Images/HomeImg1.jpg");
+    --image2: url("../Images/HomeImg2.jpg");
+    --image3: url("../Images/HomeImg3.jpg");
+    --logoNav: url("../Icons/Logo.png");
+    --HomeBut: var(--HomeButL);
+    --Item:var(--ItemShopL)
+
+}
+
+body.dark {
+    --background-color: var(--black);
+    --text-color: var(--textColorD);
+    --font-weight: 500;
+    --image: url("../Images/Darkmode-Home.jpg");
+    --image2: url("../Images/Darkmode-Home2.jpg");
+    --image3: url("../Images/Darkmode-Home3.jpg");
+    --logoNav: url("../Icons/DarkLogo.png");
+    --HomeBut: var(--HomeButD);
+    --Item:var(--ItemShopD)
+
+}
+
+/* HOME PAGE AND NAV CSS */
+.title,
+.desc {
+    color: var(--NotChange);
+}
+
+.titlebut {
+    background-color: var(--HomeBut);
+}
+
+.nav {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.t1 {
+    color: var(--text-color);
+}
+
+.carousel-item {
+    height: 90vh;
+}
+
+#H1 {
+    background-image: var(--image);
+    height: 100%;
+    object-fit: cover;
+}
+
+#H2 {
+    background-image: var(--image2);
+    height: 100%;
+    object-fit: cover;
+}
+
+#H3 {
+    background-image: var(--image3);
+    height: 100%;
+    object-fit: cover;
+    margin: auto;
+}
+
+#ImageL {
+    background-image: var(--logoNav);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    z-index: 2;
+    width: 9vw;
+    height: 9vw;
+    padding: 50%;
+}
+
+@media only screen and (max-width: 600px) {
+
+    #ImageL {
+        width: 25vw;
+    }
+}

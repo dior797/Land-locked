@@ -1,10 +1,15 @@
-import Donate from '../donatekid.jpg'
+import Donate from '../pages/Images/donatekid.jpg'
 import '../pages/PageCss/donate.css'
+import DarkMode from '../components/DarkMode';
+
+
+
 const Ship = () => {
   return (
     <>
+    <div className='everything'>
       <div className='Don-All'>
-        <img src={Donate} id="Don-Img" width="85%" height="auto"></img>
+        <img src={Donate} id="Don-Img" width="85%" height="auto" alt='Helpfull'></img>
         <p className='img-txt'>Donate Now</p>
       </div>
       <div className="line">
@@ -19,6 +24,7 @@ const Ship = () => {
         </ul>
       </div>
       <div className='Don-Bef'>
+        <br />
         <div className='bef-Title'>Before Donating:</div>
         <br></br>
         <ul>
@@ -36,6 +42,7 @@ const Ship = () => {
 
           </div>
         </ul>
+      </div>
       </div>
     </>
 
