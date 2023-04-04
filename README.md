@@ -44,6 +44,10 @@ The website consists of the following pages:
 - About<br> 
 - Contacts<br>
 
+Home Page <br>
+---------------
+The home page is designed to show of our brand to people who don't know who we are. The home page features a nav bar and a footer for easy access to all the pages in the website, with a newsletter to signup for annoucments.
+
 
 
 <img src="https://user-images.githubusercontent.com/69827955/213883096-62e97250-83a1-41fd-aba1-cab6b6e839ab.png" height="300px">
