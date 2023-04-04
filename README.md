@@ -94,7 +94,7 @@ Dark Mode
 
 Site Map
 --------------
-<img src="https://user-images.githubusercontent.com/69827955/229891944-750ddddb-b827-4e70-bbaa-71aa4e2b8a65.png" height="300px"><br>
+<img src="https://user-images.githubusercontent.com/69827955/229912764-fbe1bed0-9e6d-48da-a1f4-7ee18d0ecba2.png" height="300px"><br>
 
 
 
