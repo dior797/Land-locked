@@ -78,10 +78,18 @@ Tablet <br>
 Phone <br>
 -----------
 <img src="https://user-images.githubusercontent.com/69827955/229885861-4dbd6809-5dd9-44f9-b036-49b3ee93d192.png" height="300px">
+<br>
+Light and Dark Mode <br>
+=========================
+Light Mode <br>
+------------------
+
 
 Site Map
 --------------
-<img src="https://user-images.githubusercontent.com/69827955/229666556-b0046ce1-c057-4408-9e68-eb21ab0007e1.png" height="300px">
+<img src="https://user-images.githubusercontent.com/69827955/229666556-b0046ce1-c057-4408-9e68-eb21ab0007e1.png" height="300px"><br>
+
+
 
 
 
