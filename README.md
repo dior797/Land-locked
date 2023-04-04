@@ -23,7 +23,7 @@ Design Choices<br>
 ===============
 Branding <br>
 ----------------
-The website's branding is centered around a local thrift store with lots of vintage items. The brand identity includes a modern, simplistic, and straighfoward look while in the night it is more of a retro themed hangout spot. <br>
+The website's branding is centered around a local thrift store with lots of vintage items. The brand identity includes a modern, simplistic, and vintage look while in the night it is more of a retro themed hangout spot. <br>
 
 User Interface <br>
 ---------------
