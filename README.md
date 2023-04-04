@@ -1,5 +1,5 @@
 # Land-locked
-https://land-lockedthrift.netlify.app/
+https://land-locked.netlify.app/
 
 
 Land-Locked Thrift Shop
@@ -30,6 +30,9 @@ Tablet <br>
 Phone <br>
 <img src="https://user-images.githubusercontent.com/69827955/213883112-274b8d6c-294c-48cb-a186-880098fb5ad7.png" height="300px">
 
+Site Map
+--------------
+<img src="https://user-images.githubusercontent.com/69827955/229666260-592d0983-13a4-41ae-b426-0824f6c6880f.png" height="300px">
 
 Languages Used
 --------------
