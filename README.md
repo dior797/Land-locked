@@ -19,9 +19,10 @@ Technologies
 - BootStrap<br>
 
 
-Responsiveness
--------------
-Computer <br>
+Design Choices<br>
+===============
+Branding <br>
+----------------
 <img src="https://user-images.githubusercontent.com/69827955/213883096-62e97250-83a1-41fd-aba1-cab6b6e839ab.png" height="300px">
 
 Tablet <br>
