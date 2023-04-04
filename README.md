@@ -1,5 +1,5 @@
 # Land-locked
-https://land-locked.netlify.app/
+https://land-lockedthrift.netlify.app
 
 
 Land-Locked Thrift Shop
