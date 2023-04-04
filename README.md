@@ -46,11 +46,29 @@ The website consists of the following pages:
 
 Home Page <br>
 ---------------
-The home page is designed to show of our brand to people who don't know who we are. The home page features a nav bar and a footer for easy access to all the pages in the website, with a newsletter to signup for annoucments.
+The home page is designed to show of our brand to people who don't know who we are. The home page features a nav bar and a footer for easy access to all the pages in the website, with a newsletter to signup for annoucments.<br>
+
+Inventory Page <br>
+---------------------
+The Inventory page is designed to show off our inventory to the user that are aviable to buy. The Inventory page features a button to categorize the items that the user chooses.<br>
+
+Donate Page <br>
+------------------
+The Donate page is designed to show the user the rules and guidelines on how to donate. The products/services page features information on how our brand doantes and acceptes donations.<br>
+
+About Us Page <br>
+-------------------
+The About Us page is designed to give more background on our brand and what we do. The About us page features information to what our company is about and why we do this as a brand.<br>
+
+Contact Us Page <br>
+---------------------
+The contact us page is designed for the user to find more information on where to find us and how to contact us. The contact us page features a contact form with a Human Verification test before submitting so that our page will not be spammed.<br>
 
 
+Responsiveness
+-----------------
 
-<img src="https://user-images.githubusercontent.com/69827955/213883096-62e97250-83a1-41fd-aba1-cab6b6e839ab.png" height="300px">
+<img src="https://user-images.githubusercontent.com/69827955/229884198-f7aa59e2-c3c1-475d-a65d-c584360457ef.png" height="300px">
 
 Tablet <br>
 <img src="https://user-images.githubusercontent.com/69827955/213883104-80e789dc-90fb-4a52-859a-626cf250a561.png" height="300px">
@@ -62,23 +80,18 @@ Site Map
 --------------
 <img src="https://user-images.githubusercontent.com/69827955/229666556-b0046ce1-c057-4408-9e68-eb21ab0007e1.png" height="300px">
 
-Languages Used
---------------
-
-JavaScript<br>
-CSS<br>
-JSX<br>
-React<br>
-
-Libraries Used
---------------
-BootStrap
 
 
 Support
 ---------
 
 If any issues occur please contact us at gabrielrabago3@gmail.com or nelsonv23453@gmail.com
+
+Conclusion
+-----------
+This readme file provides an overview of the design and development of the website. If you have any questions or concerns, please do not hesitate to contact us. Thank you for visiting our website!
+
+
 
 Credits
 --------
