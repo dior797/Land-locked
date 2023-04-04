@@ -44,23 +44,23 @@ The website consists of the following pages:
 - About<br> 
 - Contacts<br>
 
-Home Page <br>
+Home <br>
 ---------------
 The home page is designed to show of our brand to people who don't know who we are. The home page features a nav bar and a footer for easy access to all the pages in the website, with a newsletter to signup for annoucments.<br>
 
-Inventory Page <br>
+Inventory <br>
 ---------------------
 The Inventory page is designed to show off our inventory to the user that are aviable to buy. The Inventory page features a button to categorize the items that the user chooses.<br>
 
-Donate Page <br>
+Donate <br>
 ------------------
 The Donate page is designed to show the user the rules and guidelines on how to donate. The products/services page features information on how our brand doantes and acceptes donations.<br>
 
-About Us Page <br>
+About Us <br>
 -------------------
 The About Us page is designed to give more background on our brand and what we do. The About us page features information to what our company is about and why we do this as a brand.<br>
 
-Contact Us Page <br>
+Contact Us <br>
 ---------------------
 The contact us page is designed for the user to find more information on where to find us and how to contact us. The contact us page features a contact form with a Human Verification test before submitting so that our page will not be spammed.<br>
 
