@@ -81,8 +81,14 @@ Phone <br>
 <br>
 Light and Dark Mode <br>
 =========================
-Light Mode <br>
+Light Mode <br> 
 ------------------
+<img src="https://user-images.githubusercontent.com/69827955/229888085-77d4e51f-3c7e-4560-9467-841e5fe7a91f.png" height="300px"><br>
+
+Dark Mode <br> 
+-----------------
+<img src="https://user-images.githubusercontent.com/69827955/229889396-d621149b-8064-44b0-a0d8-e30947b69ea5.png" height="300px"><br>
+
 
 
 Site Map
