@@ -65,16 +65,19 @@ Contact Us Page <br>
 The contact us page is designed for the user to find more information on where to find us and how to contact us. The contact us page features a contact form with a Human Verification test before submitting so that our page will not be spammed.<br>
 
 
-Responsiveness
------------------
-
+Responsiveness <br>
+==================
+Computer <br>
+--------------
 <img src="https://user-images.githubusercontent.com/69827955/229884198-f7aa59e2-c3c1-475d-a65d-c584360457ef.png" height="300px">
 
 Tablet <br>
-<img src="https://user-images.githubusercontent.com/69827955/213883104-80e789dc-90fb-4a52-859a-626cf250a561.png" height="300px">
+-------------
+<img src="" height="300px">
 
 Phone <br>
-<img src="https://user-images.githubusercontent.com/69827955/213883112-274b8d6c-294c-48cb-a186-880098fb5ad7.png" height="300px">
+-----------
+<img src="https://user-images.githubusercontent.com/69827955/229885861-4dbd6809-5dd9-44f9-b036-49b3ee93d192.png" height="300px">
 
 Site Map
 --------------
