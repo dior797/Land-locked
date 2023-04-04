@@ -2,20 +2,21 @@
 https://land-lockedthrift.netlify.app
 
 
-Land-Locked Thrift Shop
+Introduction
 =======================
 
 This website is designed to help better the community and the world. The website aims to provide cheap and affordable clothing to its users. This readme file serves as a guide to help understand the design and development of the website.
 
 
-Features
--------
+Technologies 
+---------------
 
-- User-friendly interface for browsing and categorizing items<br>
-- Compatible with all devices<br>
-- Header and Footer that leads to all the pages<br>
-- Light and Dark Mode<br> 
-- Database for the Products<br>
+- JSX<br>
+- React<br>
+- HTML<br>
+- CSS<br> 
+- JavaScript<br>
+- BootStrap<br>
 
 
 Responsiveness
