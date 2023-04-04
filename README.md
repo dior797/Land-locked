@@ -73,7 +73,7 @@ Computer <br>
 
 Tablet <br>
 -------------
-<img src="" height="300px">
+<img src="https://user-images.githubusercontent.com/93622953/229908739-86984568-3cd6-48bd-ba41-a412331cce86.png" height="300px">
 
 Phone <br>
 -----------
