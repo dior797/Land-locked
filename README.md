@@ -1,11 +1,11 @@
-# Land-locked
+# Land-locked Thrift Shop
 https://land-lockedthrift.netlify.app
 
 
 Land-Locked Thrift Shop
 =======================
 
-This project aims to create an online platform for a thrift store where customers can browse our inventory, find out how to donate, and learn more about Land-Locked Thrift Shop.
+This website is designed to help better the community and the world. The website aims to provide cheap and affordable clothing to its users. This readme file serves as a guide to help understand the design and development of the website.
 
 
 Features
