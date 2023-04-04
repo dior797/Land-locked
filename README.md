@@ -27,7 +27,21 @@ The website's branding is centered around a local thrift store with lots of vint
 
 User Interface <br>
 ---------------
-The website features a clean and modern user interface design. The layout is structured to be easy to navigate and to draw attention to important information. The color scheme is Dark Gray, Black, Light Gray, Light Green, and Orange-Red gradient, which was chosen to give of the modern and retro look. 
+The website features a clean and modern user interface design. The layout is structured to be easy to navigate and to draw attention to important information. The color scheme is Dark Gray, Black, Light Gray, Light Green, and Orange-Red gradient, which was chosen to give of the modern and retro look. <br>
+
+Accessibility <br>
+---------------
+The website is designed to be accessible to all users, including those with disabilities. The website conforms to the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA standards. The website also features a light and dark mode. <br>
+
+Pages <br>
+===========
+- Home<br>
+- Inventory<br>
+- Donate<br>
+- About<br> 
+- Contacts<br>
+
+
 
 <img src="https://user-images.githubusercontent.com/69827955/213883096-62e97250-83a1-41fd-aba1-cab6b6e839ab.png" height="300px">
 
