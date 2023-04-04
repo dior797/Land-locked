@@ -32,7 +32,7 @@ Phone <br>
 
 Site Map
 --------------
-<img src="https://user-images.githubusercontent.com/69827955/229666260-592d0983-13a4-41ae-b426-0824f6c6880f.png" height="300px">
+<img src="https://user-images.githubusercontent.com/69827955/229666556-b0046ce1-c057-4408-9e68-eb21ab0007e1.png" height="300px">
 
 Languages Used
 --------------
