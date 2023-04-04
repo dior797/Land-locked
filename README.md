@@ -28,6 +28,11 @@ User Interface <br>
 ---------------
 The website features a clean and modern user interface design. The layout is structured to be easy to navigate and to draw attention to important information. The color scheme is Dark Gray, Black, Light Gray, Light Green, and Orange-Red gradient, which was chosen to give of the modern and retro look. <br>
 
+Social Media <br>
+--------------
+Links to all of our social medias in our footer to help network ourselves throughout the valley.
+<br>
+
 Accessibility <br>
 ---------------
 The website is designed to be accessible to all users, including those with disabilities. The website conforms to the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA standards. The website also features a light and dark mode. <br>
