@@ -35,6 +35,9 @@ The website is designed to be accessible to all users, including those with disa
 
 Pages <br>
 ===========
+The website consists of the following pages:
+<br>
+
 - Home<br>
 - Inventory<br>
 - Donate<br>
